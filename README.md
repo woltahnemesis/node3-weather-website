@@ -21,7 +21,6 @@ A responsive weather application built with **Node.js**, **Express.js**, and two
 
 - **Backend**: Node.js, Express.js
 - **APIs**: Positionstack, Weatherstack
-- **Templating**: EJS *(or modify if you're using another engine)*
 - **Frontend**: HTML, CSS
 - **Deployment**: Heroku
 
