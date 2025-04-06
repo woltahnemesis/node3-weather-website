@@ -2,7 +2,7 @@
 
 A responsive weather application built with **Node.js**, **Express.js**, and two third-party APIs — **Positionstack** and **Weatherstack** — to provide real-time weather updates based on city name input. The app fetches geographic coordinates from Positionstack and uses them to retrieve weather data from Weatherstack.
 
-> 🔗 **Live Demo:** [Weather App on Heroku]([https://your-heroku-app.herokuapp.com](https://magbanua-weather-application-5869b7568d1e.herokuapp.com/))
+> 🔗 **Live Demo:** [Weather App on Heroku](https://magbanua-weather-application-5869b7568d1e.herokuapp.com/)
 
 ---
 
