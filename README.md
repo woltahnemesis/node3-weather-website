@@ -24,7 +24,3 @@ A responsive weather application built with **Node.js**, **Express.js**, and two
 - **Frontend**: HTML, CSS
 - **Deployment**: Heroku
 
----
-
-## 📂 Project Structure
-
